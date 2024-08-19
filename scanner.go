@@ -6,9 +6,8 @@ import (
     "crypto/tls"
     "context"
     "fmt"
-    "io"
     "net"
-    "github.com/copartner6412/ipscanner/results"
+    "ipscanner/internal/results"
 )
 
 type Scanner struct {
