@@ -7,7 +7,7 @@ import (
     "context"
     "fmt"
     "net"
-    "ipscanner/internal/results"
+    "github.com/copartner6412/ipscanner/results"
 )
 
 type Scanner struct {
